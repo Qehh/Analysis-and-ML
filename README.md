@@ -7,16 +7,20 @@ Analysis and ML projects
    Исследование параметров, влияющих на продажу компьютерных игр по всему миру
 
       
-2) [Исследование надёжности заёмщиков](https://github.com/Qehh/Analysis-and-ML/blob/master/Loan_analysis/first_research.ipynb)
+2) [Исследование надёжности заёмщиков](https://github.com/Qehh/Analysis-and-ML/blob/master/Loan_analysis/first_research.ipynb)  
+   Определение параметров, влияющих на возврат клиентом кредита в срок
    
    
-3) [Построение модели для задачи классификации](https://github.com/Qehh/Analysis-and-ML/blob/master/ML_Classification/first_ml_project.ipynb)
+3) [Построение модели для задачи классификации](https://github.com/Qehh/Analysis-and-ML/blob/master/ML_Classification/first_ml_project.ipynb)  
+   Предложение тарифа пользователю сотового оператора
    
    
-4) [Выбор места для бурения новой скважины (регрессия)](https://github.com/Qehh/Analysis-and-ML/blob/master/ML_Regression/ml_for_business.ipynb)
+4) [Выбор места для бурения новой скважины (регрессия)](https://github.com/Qehh/Analysis-and-ML/blob/master/ML_Regression/ml_for_business.ipynb)  
+   Построение модели для определения региона, где добыча принесет наибольшую прибыль
    
    
-5) [Исследование объявлений о продаже квартир](https://github.com/Qehh/Analysis-and-ML/blob/master/Research_Analysis/research_analisys.ipynb)
+5) [Исследование объявлений о продаже квартир](https://github.com/Qehh/Analysis-and-ML/blob/master/Research_Analysis/research_analisys.ipynb)  
+   Исследование  параметров, влияющих на рыночную стоимость квартиры
    
 
 
