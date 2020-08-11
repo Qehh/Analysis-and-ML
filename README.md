@@ -3,7 +3,7 @@ Analysis and ML projects
 
 ### Учебные проекты по анализу данных и машинному обучению
 
-1) [Анализ закономерностей, влияющих на успешность игры](https://github.com/Qehh/Analysis-and-ML/blob/master/EDA/eda.ipynb)
+1) [Анализ закономерностей, влияющих на успешность игры](https://github.com/Qehh/Analysis-and-ML/blob/master/EDA/eda.ipynb)  
    Исследование параметров, влияющих на продажу компьютерных игр по всему миру
 
       
