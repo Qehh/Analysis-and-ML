@@ -12,7 +12,7 @@ Analysis and ML projects
    
    
 3) [Построение модели для задачи классификации](https://github.com/Qehh/Analysis-and-ML/blob/master/ML_Classification/first_ml_project.ipynb)  
-   Построение модели для выбора клиента сотового оператора, которому можно предложить новый тариф
+   Построение модели для выбора подходящего клиенту тарифа сотовой связи
    
    
 4) [Выбор места для бурения новой скважины (регрессия)](https://github.com/Qehh/Analysis-and-ML/blob/master/ML_Regression/ml_for_business.ipynb)  
