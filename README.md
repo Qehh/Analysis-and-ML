@@ -22,5 +22,8 @@ Analysis and ML projects
 5) [Исследование объявлений о продаже квартир](https://github.com/Qehh/Analysis-and-ML/blob/master/Research_Analysis/research_analisys.ipynb)  
    Исследование  параметров, влияющих на рыночную стоимость квартиры
    
+6) Матрицы в линейной регрессии
+   Практическое применение свойств арифметических матричных операций
+   
 
 
