@@ -25,7 +25,7 @@ Analysis and ML projects
 6) [Матрицы в линейной регрессии](https://github.com/Qehh/Analysis-and-ML/blob/master/Matrix_with_Regression/matrix_in_linear_regression.ipynb)  
    Практическое применение свойств арифметических матричных операций
    
-7) [Прогноз цены на автомобиль](https://github.com/Qehh/Analysis-and-ML/blob/master/Boosting/project_autos.ipynb)
+7) [Прогноз цены на автомобиль](https://github.com/Qehh/Analysis-and-ML/blob/master/Boosting/project_autos.ipynb)  
    Сравнение методик CatBoost и LightGBM
    
 
