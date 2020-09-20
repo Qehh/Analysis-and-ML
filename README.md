@@ -28,7 +28,7 @@ Analysis and ML projects
 7) [Прогноз цены на автомобиль](https://github.com/Qehh/Analysis-and-ML/blob/master/Boosting/project_autos.ipynb)  
    Сравнение методик CatBoost и LightGBM
    
-8) [Исследование и построение моделей временного ряда](https://github.com/Qehh/Analysis-and-ML/blob/master/Time_Series/project_taxi.ipynb)
+8) [Исследование и построение моделей временного ряда](https://github.com/Qehh/Analysis-and-ML/blob/master/Time_Series/project_taxi.ipynb)  
    Обучение моделей линейной регрессии и XGBoost для прогноза временного ряда
    
 
