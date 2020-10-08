@@ -30,7 +30,7 @@ Analysis and ML projects
    
 8) [Исследование и построение моделей временного ряда](https://github.com/Qehh/Analysis-and-ML/blob/master/Time_Series/project_taxi.ipynb)  
    Обучение моделей линейной регрессии и XGBoost для прогноза временного ряда  
-9) [Классификация отзывов пользователей интернет-магазина](https://github.com/Qehh/Analysis-and-ML/blob/master/Texts/toxic_comments.ipynb)
+9) [Классификация отзывов пользователей интернет-магазина](https://github.com/Qehh/Analysis-and-ML/blob/master/Texts/toxic_comments.ipynb)  
    Обучение моделей классификации для текстов
    
 
