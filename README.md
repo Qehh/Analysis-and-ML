@@ -36,5 +36,8 @@ Analysis and ML projects
    
 10) [Определение возраста человека по фото](https://github.com/Qehh/Analysis-and-ML/blob/master/Computer%20Vision/computer_vision.ipynb)  
     Классификация покупателей супермаркета по возрасту
+    
+11) [Прогнозирование температуры плавления стали](https://github.com/Qehh/Analysis-and-ML/blob/master/Regression_and_Network/steel_temperature_prediction.ipynb)  
+    Сравнение различных моделей и нейронной сети для задачи регрессии
 
 
