@@ -38,6 +38,6 @@ Analysis and ML projects
     Классификация покупателей супермаркета по возрасту
     
 11) [Прогнозирование температуры плавления стали](https://github.com/Qehh/Analysis-and-ML/blob/master/Regression_and_Network/steel_temperature_prediction.ipynb)  
-    Сравнение различных моделей и нейронной сети для задачи регрессии
+    Сравнение качества различных моделей и нейронной сети для задачи регрессии
 
 
